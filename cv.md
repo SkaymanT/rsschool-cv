@@ -33,7 +33,7 @@ GitHub [SkaymanT](https://github.com/SkaymanT).
 ### 6. EXPERIENCE
 
 I began to learn about programming at the end of 2014.
-In February 2019, I started training at The Rolling Scope School and studied in two stages.
+I have completed the RSS School courses on JavaScript to React. Now I want to consolidate my knowledge of react, so I am looking for a mentor with extensive experience in React and typeScript.
 
 ### --------------------------------------------------------------------------------------------------------
 
