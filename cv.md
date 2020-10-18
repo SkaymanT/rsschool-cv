@@ -33,7 +33,8 @@ GitHub [SkaymanT](https://github.com/SkaymanT).
 ### 6. EXPERIENCE
 
 I began to learn about programming at the end of 2014.
-I have completed the RSS School courses on JavaScript to React. Now I want to consolidate my knowledge of react, so I am looking for a mentor with extensive experience in React and typeScript.
+
+I have completed the RSS School courses on JavaScript and React. Now I want to consolidate my knowledge of React TS, so I am looking for a mentor with extensive experience in React TS.
 
 ### --------------------------------------------------------------------------------------------------------
 
