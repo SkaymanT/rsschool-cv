@@ -16,11 +16,11 @@ I work in the field of information security (cryptography) 5 years. Now I think 
 
 ### 4. SKILLS
 
-> 4.1 JavaScript;
-> 4.2 CSS;
-> 4.3 HTML;
-> 4.4 React JS;
-> 4.5 Photoshop/Figma.
+> 1. HTML/CSS/JavaScript;
+> 2. SCSS;
+> 3. TypeScript;
+> 4. React JS;
+> 5. Photoshop/Figma.
 
 ### --------------------------------------------------------------------------------------------------------
 
@@ -39,10 +39,13 @@ In February 2019, I started training at The Rolling Scope School and studied in 
 
 ### 7. EDUCATION
 
-_2009 - 2014_ - Faculty of Applied Mathematics, Academy of the Federal Security Service. Qualification: mathematician. Specialty: Cryptography.
+_2009 - 2014_ - Faculty of Applied Mathematics. Qualification: mathematician. Specialty: Cryptography.
 
+_2020 - 2020_ - Finished courses RSS School [JavaScript](https://app.rs.school/certificate/ylukmrad).
+
+_2020 - 2020_ - Finished courses RSS School [React](https://app.rs.school/certificate/3q2v8m87).
 ### --------------------------------------------------------------------------------------------------------
 
 ### 8 ENGLISH LEVEL
 
-Pre-Intermediate (A2), but I keep learn English to this day.
+A1, but I keep learn English to this day.
